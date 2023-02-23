@@ -8,7 +8,32 @@
     <string>AddPlanetIdHere</string>
     <string>AddAnotherPlanetIdHere</string>
   </SpawnTypePlanetBlacklist>
-  <PlanetSpawnFilters />
+  <PlanetSpawnFilters>
+    <PlanetSpawnFilter>
+      <PlanetName>Moon</PlanetName>
+      <PlanetId>7236837804970415510</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Planet Agaris IO</PlanetName>
+      <PlanetId>7234735335062151558</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Moon</PlanetName>
+      <PlanetId>7236837804970415510</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+  </PlanetSpawnFilters>
   <UseTypeDisownTimer>true</UseTypeDisownTimer>
   <TypeDisownTimer>1800</TypeDisownTimer>
   <UseTimeout>true</UseTimeout>
