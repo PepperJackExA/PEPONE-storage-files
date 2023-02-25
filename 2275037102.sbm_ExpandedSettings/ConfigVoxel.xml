@@ -226,21 +226,21 @@
       </PlanetOreModifierData>
       <PlanetOreModifierData PlanetName="Planet Agaris IO">
         <OreData>
-          <OreData OreType="Iron" DepthMultiplier="-1" ThicknessMultiplier="-1" />
-          <OreData OreType="Nickel" DepthMultiplier="-1" ThicknessMultiplier="-1" />
-          <OreData OreType="Silicon" DepthMultiplier="-1" ThicknessMultiplier="-1" />
-          <OreData OreType="Cobalt" DepthMultiplier="-1" ThicknessMultiplier="-1" />
-          <OreData OreType="Silver" DepthMultiplier="-1" ThicknessMultiplier="-1" />
-          <OreData OreType="Gold" DepthMultiplier="-1" ThicknessMultiplier="-1" />
-          <OreData OreType="Uranium" DepthMultiplier="-1" ThicknessMultiplier="-1" />
-          <OreData OreType="Tantalum" DepthMultiplier="-1" ThicknessMultiplier="-1" />
-          <OreData OreType="Coal" DepthMultiplier="-1" ThicknessMultiplier="-1" />
-          <OreData OreType="OilSand" DepthMultiplier="-1" ThicknessMultiplier="-1" />
-          <OreData OreType="Bauxite" DepthMultiplier="-1" ThicknessMultiplier="-1" />
-          <OreData OreType="Copper" DepthMultiplier="-1" ThicknessMultiplier="-1" />
-          <OreData OreType="Lithium" DepthMultiplier="-1" ThicknessMultiplier="-1" />
-          <OreData OreType="Titanium" DepthMultiplier="10" ThicknessMultiplier="2" />
-          <OreData OreType="Niter" DepthMultiplier="-1" ThicknessMultiplier="-1" />
+			<OreData OreType="Iron" DepthMultiplier="10" ThicknessMultiplier="-1" />
+			<OreData OreType="Nickel" DepthMultiplier="12" ThicknessMultiplier="-1" />
+			<OreData OreType="Silicon" DepthMultiplier="2" ThicknessMultiplier="-1" />
+			<OreData OreType="Cobalt" DepthMultiplier="25" ThicknessMultiplier="-1" />
+			<OreData OreType="Silver" DepthMultiplier="40" ThicknessMultiplier="-1" />
+			<OreData OreType="Gold" DepthMultiplier="50" ThicknessMultiplier="-1" />
+			<OreData OreType="Uranium" DepthMultiplier="65" ThicknessMultiplier="2" />
+			<OreData OreType="Tantalum" DepthMultiplier="52" ThicknessMultiplier="-1" />
+			<OreData OreType="Coal" DepthMultiplier="18" ThicknessMultiplier="-1" />
+			<OreData OreType="OilSand" DepthMultiplier="30" ThicknessMultiplier="-1" />
+			<OreData OreType="Bauxite" DepthMultiplier="32" ThicknessMultiplier="-1" />
+			<OreData OreType="Copper" DepthMultiplier="8" ThicknessMultiplier="-1" />
+			<OreData OreType="Lithium" DepthMultiplier="35" ThicknessMultiplier="-1" />
+			<OreData OreType="Titanium" DepthMultiplier="35" ThicknessMultiplier="-1" />
+			<OreData OreType="Niter" DepthMultiplier="20" ThicknessMultiplier="-1" />
         </OreData>
       </PlanetOreModifierData>
     </PlanetData>
