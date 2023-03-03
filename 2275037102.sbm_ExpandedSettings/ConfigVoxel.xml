@@ -35,7 +35,7 @@
       <OreYieldData OreType="CrushedPlatinum" OreYieldMultiplier="-1" />
       <OreYieldData OreType="Coal" OreYieldMultiplier="-1" />
       <OreYieldData OreType="Niter" OreYieldMultiplier="-1" />
-      <OreYieldData OreType="Organic" OreYieldMultiplier="3" />
+      <OreYieldData OreType="Organic" OreYieldMultiplier="-1" />
       <OreYieldData OreType="CrushedSulfur" OreYieldMultiplier="-1" />
       <OreYieldData OreType="CrushedCopper" OreYieldMultiplier="-1" />
       <OreYieldData OreType="CrushedLithium" OreYieldMultiplier="-1" />
@@ -57,26 +57,26 @@
   </OreYieldModifiers>
   <AsteroidModifiers>
     <AsteroidOreData>
-      <AsteroidOreData OreType="Ice" OreFrequencyMultiplier="2" />
-      <AsteroidOreData OreType="Iron" OreFrequencyMultiplier="1.5" />
-      <AsteroidOreData OreType="Nickel" OreFrequencyMultiplier="1.5" />
-      <AsteroidOreData OreType="Silicon" OreFrequencyMultiplier="1.5" />
-      <AsteroidOreData OreType="Cobalt" OreFrequencyMultiplier="0.5" />
-      <AsteroidOreData OreType="Silver" OreFrequencyMultiplier="1" />
-      <AsteroidOreData OreType="Gold" OreFrequencyMultiplier="0.3" />
-      <AsteroidOreData OreType="Platinum" OreFrequencyMultiplier="0.05" />
-      <AsteroidOreData OreType="Uranium" OreFrequencyMultiplier="0.1" />
-      <AsteroidOreData OreType="Sulfur" OreFrequencyMultiplier="0.5" />
-      <AsteroidOreData OreType="Coal" OreFrequencyMultiplier="1.5" />
-      <AsteroidOreData OreType="Copper" OreFrequencyMultiplier="2" />
-      <AsteroidOreData OreType="Lithium" OreFrequencyMultiplier="0.5" />
-      <AsteroidOreData OreType="Bauxite" OreFrequencyMultiplier="1.5" />
-      <AsteroidOreData OreType="Titanium" OreFrequencyMultiplier="2" />
-      <AsteroidOreData OreType="Tantalum" OreFrequencyMultiplier="0.1" />
+      <AsteroidOreData OreType="Ice" OreFrequencyMultiplier="-1" />
+      <AsteroidOreData OreType="Iron" OreFrequencyMultiplier="-1" />
+      <AsteroidOreData OreType="Nickel" OreFrequencyMultiplier="-1" />
+      <AsteroidOreData OreType="Silicon" OreFrequencyMultiplier="-1" />
+      <AsteroidOreData OreType="Cobalt" OreFrequencyMultiplier="-1" />
+      <AsteroidOreData OreType="Silver" OreFrequencyMultiplier="-1" />
+      <AsteroidOreData OreType="Gold" OreFrequencyMultiplier="-1" />
+      <AsteroidOreData OreType="Platinum" OreFrequencyMultiplier="-1" />
+      <AsteroidOreData OreType="Uranium" OreFrequencyMultiplier="-1" />
+      <AsteroidOreData OreType="Sulfur" OreFrequencyMultiplier="-1" />
+      <AsteroidOreData OreType="Coal" OreFrequencyMultiplier="-1" />
+      <AsteroidOreData OreType="Copper" OreFrequencyMultiplier="-1" />
+      <AsteroidOreData OreType="Lithium" OreFrequencyMultiplier="-1" />
+      <AsteroidOreData OreType="Bauxite" OreFrequencyMultiplier="-1" />
+      <AsteroidOreData OreType="Titanium" OreFrequencyMultiplier="-1" />
+      <AsteroidOreData OreType="Tantalum" OreFrequencyMultiplier="-1" />
     </AsteroidOreData>
   </AsteroidModifiers>
   <PlanetOreModifiers>
-    <PlanetOreModifierIsActive>true</PlanetOreModifierIsActive>
+    <PlanetOreModifierIsActive>false</PlanetOreModifierIsActive>
     <PlanetData>
       <PlanetOreModifierData PlanetName="Pertam">
         <OreData>
@@ -226,21 +226,21 @@
       </PlanetOreModifierData>
       <PlanetOreModifierData PlanetName="Planet Agaris IO">
         <OreData>
-			<OreData OreType="Iron" DepthMultiplier="10" ThicknessMultiplier="-1" />
-			<OreData OreType="Nickel" DepthMultiplier="12" ThicknessMultiplier="-1" />
-			<OreData OreType="Silicon" DepthMultiplier="2" ThicknessMultiplier="-1" />
-			<OreData OreType="Cobalt" DepthMultiplier="25" ThicknessMultiplier="-1" />
-			<OreData OreType="Silver" DepthMultiplier="40" ThicknessMultiplier="-1" />
-			<OreData OreType="Gold" DepthMultiplier="50" ThicknessMultiplier="-1" />
-			<OreData OreType="Uranium" DepthMultiplier="65" ThicknessMultiplier="2" />
-			<OreData OreType="Tantalum" DepthMultiplier="52" ThicknessMultiplier="-1" />
-			<OreData OreType="Coal" DepthMultiplier="18" ThicknessMultiplier="-1" />
-			<OreData OreType="OilSand" DepthMultiplier="30" ThicknessMultiplier="-1" />
-			<OreData OreType="Bauxite" DepthMultiplier="32" ThicknessMultiplier="-1" />
-			<OreData OreType="Copper" DepthMultiplier="8" ThicknessMultiplier="-1" />
-			<OreData OreType="Lithium" DepthMultiplier="35" ThicknessMultiplier="-1" />
-			<OreData OreType="Titanium" DepthMultiplier="35" ThicknessMultiplier="-1" />
-			<OreData OreType="Niter" DepthMultiplier="20" ThicknessMultiplier="-1" />
+          <OreData OreType="Iron" DepthMultiplier="-1" ThicknessMultiplier="-1" />
+          <OreData OreType="Nickel" DepthMultiplier="-1" ThicknessMultiplier="-1" />
+          <OreData OreType="Silicon" DepthMultiplier="-1" ThicknessMultiplier="-1" />
+          <OreData OreType="Cobalt" DepthMultiplier="-1" ThicknessMultiplier="-1" />
+          <OreData OreType="Silver" DepthMultiplier="-1" ThicknessMultiplier="-1" />
+          <OreData OreType="Gold" DepthMultiplier="-1" ThicknessMultiplier="-1" />
+          <OreData OreType="Uranium" DepthMultiplier="-1" ThicknessMultiplier="-1" />
+          <OreData OreType="Tantalum" DepthMultiplier="-1" ThicknessMultiplier="-1" />
+          <OreData OreType="Coal" DepthMultiplier="-1" ThicknessMultiplier="-1" />
+          <OreData OreType="OilSand" DepthMultiplier="-1" ThicknessMultiplier="-1" />
+          <OreData OreType="Bauxite" DepthMultiplier="-1" ThicknessMultiplier="-1" />
+          <OreData OreType="Copper" DepthMultiplier="-1" ThicknessMultiplier="-1" />
+          <OreData OreType="Lithium" DepthMultiplier="-1" ThicknessMultiplier="-1" />
+          <OreData OreType="Titanium" DepthMultiplier="-1" ThicknessMultiplier="-1" />
+          <OreData OreType="Niter" DepthMultiplier="-1" ThicknessMultiplier="-1" />
         </OreData>
       </PlanetOreModifierData>
     </PlanetData>
