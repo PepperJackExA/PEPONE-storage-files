@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Version>1.1.48.223</Version>
+  <Version>1.1.68.276</Version>
   <Logging>false</Logging>
   <RewardFactor>1.2</RewardFactor>
   <DeliveryTimeFactor>1</DeliveryTimeFactor>
   <ReputationFactor>0.5</ReputationFactor>
   <DeliveryDistance>60</DeliveryDistance>
+  <MaximumTripDistance xsi:nil="true" />
   <ContractBlockRefill>3</ContractBlockRefill>
   <ContractRefreshPeriod>60</ContractRefreshPeriod>
   <EnableDatapad>true</EnableDatapad>
@@ -13,6 +14,8 @@
   <DeepSpaceStations>2</DeepSpaceStations>
   <ThresholdLarge>20000</ThresholdLarge>
   <ThresholdHuge>67500</ThresholdHuge>
+  <DistanceBetweenPirateAttacks>5</DistanceBetweenPirateAttacks>
+  <TimeBetweenPirateAttacks>5</TimeBetweenPirateAttacks>
   <BlacklistFactions>
     <FactionTag>SPRT</FactionTag>
     <FactionTag>SPID</FactionTag>

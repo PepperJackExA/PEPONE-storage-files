@@ -1,19 +1,2 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ArrayOfMyTupleOfVector3DString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <MyTupleOfVector3DString>
-    <Item1>
-      <X>439498.76006454561</X>
-      <Y>-44536.789030281143</Y>
-      <Z>43303.43293206652</Z>
-    </Item1>
-    <Item2>Freight Contract Space Station-B</Item2>
-  </MyTupleOfVector3DString>
-  <MyTupleOfVector3DString>
-    <Item1>
-      <X>20941.6225127455</X>
-      <Y>38038.770829135246</Y>
-      <Z>-45645.522173192061</Z>
-    </Item1>
-    <Item2>Freight Contract Space Station-D</Item2>
-  </MyTupleOfVector3DString>
-</ArrayOfMyTupleOfVector3DString>
+<ArrayOfMyTupleOfVector3DStringInt64 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />

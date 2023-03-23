@@ -1,0 +1,5 @@
+[07:23:37.985] [T40] [DS=True] DEBUG | Log Started (v1.4.5)
+[07:23:37.986] [T40] [DS=True] DEBUG | Water Mod v19 found
+[07:23:38.000] [T40] [DS=True] DEBUG | WeaponCore Mod found. API loaded successfully = True
+[07:23:38.003] [T40] [DS=True] DEBUG |  -> No NPC-Safe WeaponCore Weapon Magazines found.
+[07:23:38.158] [T40] [DS=True] DEBUG | Faction cleanup: Removing 5/7 members from Space Pirates

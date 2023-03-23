@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<RustConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <OnlyRustUnpoweredGrids>false</OnlyRustUnpoweredGrids>
+  <RustDamagesBlocks>true</RustDamagesBlocks>
+  <Planets>
+    <Planet>
+      <PlanetNameContains>Earth</PlanetNameContains>
+      <AverageMinutesToStartRusting>300</AverageMinutesToStartRusting>
+    </Planet>
+    <Planet>
+      <PlanetNameContains>Alien</PlanetNameContains>
+      <AverageMinutesToStartRusting>180</AverageMinutesToStartRusting>
+    </Planet>
+    <Planet>
+      <PlanetNameContains>Pertam</PlanetNameContains>
+      <AverageMinutesToStartRusting>60</AverageMinutesToStartRusting>
+    </Planet>
+    <Planet>
+      <PlanetNameContains>Venus</PlanetNameContains>
+      <AverageMinutesToStartRusting>10</AverageMinutesToStartRusting>
+    </Planet>
+  </Planets>
+  <BlockSubtypeContainsBlackList>
+    <string>Concrete</string>
+    <string>Wood</string>
+  </BlockSubtypeContainsBlackList>
+</RustConfig>
