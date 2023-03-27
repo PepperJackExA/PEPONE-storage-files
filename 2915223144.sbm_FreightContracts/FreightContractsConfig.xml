@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Version>1.1.68.276</Version>
+  <Version>1.1.73.279</Version>
   <Logging>false</Logging>
   <RewardFactor>1.2</RewardFactor>
   <DeliveryTimeFactor>1</DeliveryTimeFactor>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <writeConfigInWorldStorage>true</writeConfigInWorldStorage>
+  <gpsAngleInfo>false</gpsAngleInfo>
+  <detectEveryNthUpdate>2</detectEveryNthUpdate>
+  <gpsCountPerOreLimit>1</gpsCountPerOreLimit>
+  <gpsColorR>255</gpsColorR>
+  <gpsColorG>220</gpsColorG>
+  <gpsColorB>140</gpsColorB>
+  <detectorRangeDefault>30000</detectorRangeDefault>
+  <detectorRangeLimitDefault>100000</detectorRangeLimitDefault>
+  <detectorRangeLimits>
+    <dictionary>
+      <item>
+        <Key>LargeOreDetector</Key>
+        <Value>100000</Value>
+      </item>
+      <item>
+        <Key>SmallBlockOreDetector</Key>
+        <Value>50000</Value>
+      </item>
+    </dictionary>
+  </detectorRangeLimits>
+</Config>
