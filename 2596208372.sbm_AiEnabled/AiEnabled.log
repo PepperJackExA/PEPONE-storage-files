@@ -1,5 +1,7 @@
-[09:29:18.797] [T42] [DS=True] DEBUG | Log Started (v1.4.5)
-[09:29:18.797] [T42] [DS=True] DEBUG | Water Mod v19 found
-[09:29:18.812] [T42] [DS=True] DEBUG | WeaponCore Mod found. API loaded successfully = True
-[09:29:18.815] [T42] [DS=True] DEBUG |  -> No NPC-Safe WeaponCore Weapon Magazines found.
-[09:29:18.961] [T42] [DS=True] DEBUG | Faction cleanup: Removing 5/7 members from Space Pirates
+[13:34:25.703] [T36] [DS=True] DEBUG | Log Started (v1.4.5)
+[13:34:25.704] [T36] [DS=True] DEBUG | Water Mod v19 found
+[13:34:25.721] [T36] [DS=True] DEBUG | WeaponCore Mod found. API loaded successfully = True
+[13:34:25.725] [T36] [DS=True] DEBUG |  -> No NPC-Safe WeaponCore Weapon Magazines found.
+[13:34:25.786] [T36] [DS=True] DEBUG | Faction cleanup: Removing 5/7 members from Space Pirates
+[13:34:53.262] [T36] [DS=True] DEBUG | Unloading mod data. Registered = True
+[13:34:53.293] [T36] [DS=True] DEBUG | Mod unloaded successfully
