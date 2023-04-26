@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<InventoryQOLSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <PerGridDelay>10</PerGridDelay>
-  <NetworkWorkCost>10</NetworkWorkCost>
-  <WorkPerTick>5000</WorkPerTick>
-  <MaxWorkPerGrid>1000</MaxWorkPerGrid>
-  <Version>0</Version>
-</InventoryQOLSettings>
