@@ -3,3 +3,5 @@
 [07:24:24.300] [T42] [DS=True] DEBUG | WeaponCore Mod found. API loaded successfully = True
 [07:24:24.303] [T42] [DS=True] DEBUG |  -> No NPC-Safe WeaponCore Weapon Magazines found.
 [07:24:24.443] [T42] [DS=True] DEBUG | Faction cleanup: Removing 5/7 members from Space Pirates
+[02:18:03.393] [T42] [DS=True] DEBUG | Unloading mod data. Registered = True
+[02:18:03.429] [T42] [DS=True] DEBUG | Mod unloaded successfully
