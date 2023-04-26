@@ -3,6 +3,14 @@
   <OnlyRustUnpoweredGrids>false</OnlyRustUnpoweredGrids>
   <RustDamagesBlocks>true</RustDamagesBlocks>
   <Planets>
+	<Planet>
+      <PlanetNameContains>Agaris</PlanetNameContains>
+      <AverageMinutesToStartRusting>300</AverageMinutesToStartRusting>
+    </Planet>
+	<Planet>
+      <PlanetNameContains>Thora</PlanetNameContains>
+      <AverageMinutesToStartRusting>300</AverageMinutesToStartRusting>
+    </Planet>
     <Planet>
       <PlanetNameContains>Earth</PlanetNameContains>
       <AverageMinutesToStartRusting>300</AverageMinutesToStartRusting>
