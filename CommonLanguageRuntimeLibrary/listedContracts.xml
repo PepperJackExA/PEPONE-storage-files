@@ -1,139 +1,23 @@
 <?xml version="1.0" encoding="utf-16"?>
 <ArrayOfContractDetails xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ContractDetails>
-    <ContractId>937464583194961075</ContractId>
+    <ContractId>960431310744998513</ContractId>
     <IsEnded>false</IsEnded>
     <Origin>
-      <X>-10145.109279233382</X>
-      <Y>-13777.493576951229</Y>
-      <Z>-56413.506174060836</Z>
+      <X>3560.5429930603291</X>
+      <Y>57992.604596950994</Y>
+      <Z>-9833.38167335918</Z>
     </Origin>
-    <OriginEntityId>141320661554849843</OriginEntityId>
+    <OriginEntityId>110025619747174176</OriginEntityId>
     <Destination>
-      <X>-38851.293502651526</X>
-      <Y>-32745.307672347473</Y>
-      <Z>-29395.271034048816</Z>
+      <X>43283.918130141552</X>
+      <Y>3765.6725766319637</Y>
+      <Z>39558.870700180087</Z>
     </Destination>
-    <DestinationEntityId>96336222175010998</DestinationEntityId>
-    <FreightDescription>Rusted wave ejector</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Large</FreightSize>
-    <TransportRisk>Low</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>965250653414556504</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>-10145.109279233382</X>
-      <Y>-13777.493576951229</Y>
-      <Z>-56413.506174060836</Z>
-    </Origin>
-    <OriginEntityId>141320661554849843</OriginEntityId>
-    <Destination>
-      <X>-34878.877389370777</X>
-      <Y>-26218.072563477705</Y>
-      <Z>-39510.408188422152</Z>
-    </Destination>
-    <DestinationEntityId>94973683123900524</DestinationEntityId>
-    <FreightDescription>Timed disassembler stabilizer</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>None</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>961724891750947767</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>701.28506237408465</X>
-      <Y>-47931.657552474979</Y>
-      <Z>-81996.5516395079</Z>
-    </Origin>
-    <OriginEntityId>140385542140037644</OriginEntityId>
-    <Destination>
-      <X>-10145.109279233382</X>
-      <Y>-13777.493576951229</Y>
-      <Z>-56413.506174060836</Z>
-    </Destination>
-    <DestinationEntityId>141320661554849843</DestinationEntityId>
-    <FreightDescription>Rusted disassembler lever</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>Low</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>989988382561528935</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>701.28506237408465</X>
-      <Y>-47931.657552474979</Y>
-      <Z>-81996.5516395079</Z>
-    </Origin>
-    <OriginEntityId>140385542140037644</OriginEntityId>
-    <Destination>
-      <X>-11330.949130028241</X>
-      <Y>-16007.523495034637</Y>
-      <Z>-55736.028713261949</Z>
-    </Destination>
-    <DestinationEntityId>129575477006545458</DestinationEntityId>
-    <FreightDescription>Quasi encabulation disassembler</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Large</FreightSize>
-    <TransportRisk>Extreme</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>939616816429981657</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>-34878.877389370777</X>
-      <Y>-26218.072563477705</Y>
-      <Z>-39510.408188422152</Z>
-    </Origin>
-    <OriginEntityId>94973683123900524</OriginEntityId>
-    <Destination>
-      <X>-38805.136583634478</X>
-      <Y>-24135.229319533133</Y>
-      <Z>-36915.092539851765</Z>
-    </Destination>
-    <DestinationEntityId>116431176981818017</DestinationEntityId>
-    <FreightDescription>Amplified fusion amplifier</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
+    <DestinationEntityId>132431122419490276</DestinationEntityId>
+    <FreightDescription>Ionic photon manipulator</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>true</IsExplosive>
     <FreightSize>Large</FreightSize>
     <TransportRisk>High</TransportRisk>
     <FreightAttacks>0</FreightAttacks>
@@ -146,21 +30,21 @@
     <FreightEntityId>0</FreightEntityId>
   </ContractDetails>
   <ContractDetails>
-    <ContractId>1006910748481283618</ContractId>
+    <ContractId>959432246666588956</ContractId>
     <IsEnded>false</IsEnded>
     <Origin>
-      <X>-34878.877389370777</X>
-      <Y>-26218.072563477705</Y>
-      <Z>-39510.408188422152</Z>
+      <X>3560.5429930603291</X>
+      <Y>57992.604596950994</Y>
+      <Z>-9833.38167335918</Z>
     </Origin>
-    <OriginEntityId>94973683123900524</OriginEntityId>
+    <OriginEntityId>110025619747174176</OriginEntityId>
     <Destination>
-      <X>-10145.109279233382</X>
-      <Y>-13777.493576951229</Y>
-      <Z>-56413.506174060836</Z>
+      <X>37118.105964257687</X>
+      <Y>40001.227448437974</Y>
+      <Z>22076.583253111748</Z>
     </Destination>
-    <DestinationEntityId>141320661554849843</DestinationEntityId>
-    <FreightDescription>Tachyon encabulation bushing</FreightDescription>
+    <DestinationEntityId>95311268812087141</DestinationEntityId>
+    <FreightDescription>Turbo flux valve</FreightDescription>
     <IsClassified>false</IsClassified>
     <IsExplosive>false</IsExplosive>
     <FreightSize>Small</FreightSize>
@@ -175,21 +59,21 @@
     <FreightEntityId>0</FreightEntityId>
   </ContractDetails>
   <ContractDetails>
-    <ContractId>969876671574615656</ContractId>
+    <ContractId>989484025821591976</ContractId>
     <IsEnded>false</IsEnded>
     <Origin>
-      <X>-34878.877389370777</X>
-      <Y>-26218.072563477705</Y>
-      <Z>-39510.408188422152</Z>
+      <X>15866.069604066606</X>
+      <Y>-45285.144465281883</Y>
+      <Z>33703.905741759314</Z>
     </Origin>
-    <OriginEntityId>94973683123900524</OriginEntityId>
+    <OriginEntityId>106620302241188819</OriginEntityId>
     <Destination>
-      <X>-38805.136583634478</X>
-      <Y>-24135.229319533133</Y>
-      <Z>-36915.092539851765</Z>
+      <X>-10818.232854330685</X>
+      <Y>-52311.552209707021</Y>
+      <Z>27951.112691977221</Z>
     </Destination>
-    <DestinationEntityId>116431176981818017</DestinationEntityId>
-    <FreightDescription>Radial compression lever</FreightDescription>
+    <DestinationEntityId>124725739317800056</DestinationEntityId>
+    <FreightDescription>Quantum outlet disassembler</FreightDescription>
     <IsClassified>false</IsClassified>
     <IsExplosive>false</IsExplosive>
     <FreightSize>Small</FreightSize>
@@ -204,7 +88,94 @@
     <FreightEntityId>0</FreightEntityId>
   </ContractDetails>
   <ContractDetails>
-    <ContractId>963303151378887985</ContractId>
+    <ContractId>946456305893148513</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>15866.069604066606</X>
+      <Y>-45285.144465281883</Y>
+      <Z>33703.905741759314</Z>
+    </Origin>
+    <OriginEntityId>106620302241188819</OriginEntityId>
+    <Destination>
+      <X>-10818.232854330685</X>
+      <Y>-52311.552209707021</Y>
+      <Z>27951.112691977221</Z>
+    </Destination>
+    <DestinationEntityId>124725739317800056</DestinationEntityId>
+    <FreightDescription>Ion outlet unit</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>None</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>960488805896810294</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>701.28506237408465</X>
+      <Y>-47931.657552474979</Y>
+      <Z>-81996.5516395079</Z>
+    </Origin>
+    <OriginEntityId>140385542140037644</OriginEntityId>
+    <Destination>
+      <X>44025.707756168755</X>
+      <Y>-41547.088864582809</Y>
+      <Z>-73165.605249702625</Z>
+    </Destination>
+    <DestinationEntityId>134145443616892721</DestinationEntityId>
+    <FreightDescription>Warp microdilation cylinder</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>Extreme</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>971201080931980264</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>44025.707756168755</X>
+      <Y>-41547.088864582809</Y>
+      <Z>-73165.605249702625</Z>
+    </Origin>
+    <OriginEntityId>134145443616892721</OriginEntityId>
+    <Destination>
+      <X>49856.347760546349</X>
+      <Y>-5912.4360929662653</Y>
+      <Z>-30588.613677193207</Z>
+    </Destination>
+    <DestinationEntityId>95559747999312205</DestinationEntityId>
+    <FreightDescription>Radial outlet assembly</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Huge</FreightSize>
+    <TransportRisk>None</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>984645409935307597</ContractId>
     <IsEnded>false</IsEnded>
     <Origin>
       <X>44025.707756168755</X>
@@ -218,7 +189,36 @@
       <Z>-81996.5516395079</Z>
     </Destination>
     <DestinationEntityId>140385542140037644</DestinationEntityId>
-    <FreightDescription>Chrono matter assembly</FreightDescription>
+    <FreightDescription>Holographic flux iris</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>Extreme</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>969259703263375390</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>44025.707756168755</X>
+      <Y>-41547.088864582809</Y>
+      <Z>-73165.605249702625</Z>
+    </Origin>
+    <OriginEntityId>134145443616892721</OriginEntityId>
+    <Destination>
+      <X>701.28506237408465</X>
+      <Y>-47931.657552474979</Y>
+      <Z>-81996.5516395079</Z>
+    </Destination>
+    <DestinationEntityId>140385542140037644</DestinationEntityId>
+    <FreightDescription>Tachyon timing projector</FreightDescription>
     <IsClassified>false</IsClassified>
     <IsExplosive>false</IsExplosive>
     <FreightSize>Small</FreightSize>
@@ -233,25 +233,25 @@
     <FreightEntityId>0</FreightEntityId>
   </ContractDetails>
   <ContractDetails>
-    <ContractId>1008194174597810486</ContractId>
+    <ContractId>963262063534406405</ContractId>
     <IsEnded>false</IsEnded>
     <Origin>
-      <X>44025.707756168755</X>
-      <Y>-41547.088864582809</Y>
-      <Z>-73165.605249702625</Z>
+      <X>37118.105964257687</X>
+      <Y>40001.227448437974</Y>
+      <Z>22076.583253111748</Z>
     </Origin>
-    <OriginEntityId>134145443616892721</OriginEntityId>
+    <OriginEntityId>95311268812087141</OriginEntityId>
     <Destination>
-      <X>-10145.109279233382</X>
-      <Y>-13777.493576951229</Y>
-      <Z>-56413.506174060836</Z>
+      <X>3560.5429930603291</X>
+      <Y>57992.604596950994</Y>
+      <Z>-9833.38167335918</Z>
     </Destination>
-    <DestinationEntityId>141320661554849843</DestinationEntityId>
-    <FreightDescription>Gravitational interface iris</FreightDescription>
+    <DestinationEntityId>110025619747174176</DestinationEntityId>
+    <FreightDescription>Radix field processor</FreightDescription>
     <IsClassified>false</IsClassified>
     <IsExplosive>false</IsExplosive>
-    <FreightSize>Large</FreightSize>
-    <TransportRisk>Extreme</TransportRisk>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>None</TransportRisk>
     <FreightAttacks>0</FreightAttacks>
     <FreightSpawnPoint>
       <X>0</X>
@@ -262,7 +262,7 @@
     <FreightEntityId>0</FreightEntityId>
   </ContractDetails>
   <ContractDetails>
-    <ContractId>960840438241443893</ContractId>
+    <ContractId>991240518597808101</ContractId>
     <IsEnded>false</IsEnded>
     <Origin>
       <X>37118.105964257687</X>
@@ -276,355 +276,7 @@
       <Z>39558.870700180087</Z>
     </Destination>
     <DestinationEntityId>132431122419490276</DestinationEntityId>
-    <FreightDescription>Energy spring flange</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>true</IsExplosive>
-    <FreightSize>Huge</FreightSize>
-    <TransportRisk>None</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>974158877011409903</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>26461.324421294954</X>
-      <Y>-32819.00260266308</Y>
-      <Z>-41054.338054669788</Z>
-    </Origin>
-    <OriginEntityId>91794521211453371</OriginEntityId>
-    <Destination>
-      <X>-11330.949130028241</X>
-      <Y>-16007.523495034637</Y>
-      <Z>-55736.028713261949</Z>
-    </Destination>
-    <DestinationEntityId>129575477006545458</DestinationEntityId>
-    <FreightDescription>Radix filter outlet</FreightDescription>
-    <IsClassified>true</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Large</FreightSize>
-    <TransportRisk>None</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>946302982915635211</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>-38851.293502651526</X>
-      <Y>-32745.307672347473</Y>
-      <Z>-29395.271034048816</Z>
-    </Origin>
-    <OriginEntityId>96336222175010998</OriginEntityId>
-    <Destination>
-      <X>-34878.877389370777</X>
-      <Y>-26218.072563477705</Y>
-      <Z>-39510.408188422152</Z>
-    </Destination>
-    <DestinationEntityId>94973683123900524</DestinationEntityId>
-    <FreightDescription>Holographic throttle regulator</FreightDescription>
-    <IsClassified>true</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>None</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>991738275408052588</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>49856.347760546349</X>
-      <Y>-5912.4360929662653</Y>
-      <Z>-30588.613677193207</Z>
-    </Origin>
-    <OriginEntityId>95559747999312205</OriginEntityId>
-    <Destination>
-      <X>26461.324421294954</X>
-      <Y>-32819.00260266308</Y>
-      <Z>-41054.338054669788</Z>
-    </Destination>
-    <DestinationEntityId>91794521211453371</DestinationEntityId>
-    <FreightDescription>Tachyon matter bearing</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>Low</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>971324832148509344</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>39835.24666810449</X>
-      <Y>-35685.351160765174</Y>
-      <Z>23967.581875583659</Z>
-    </Origin>
-    <OriginEntityId>116775910304084401</OriginEntityId>
-    <Destination>
-      <X>46218.820356635981</X>
-      <Y>-32600.859910686861</Y>
-      <Z>17653.545562377087</Z>
-    </Destination>
-    <DestinationEntityId>87133836040765349</DestinationEntityId>
-    <FreightDescription>Radial fusion collimator</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>Low</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>948741915879057954</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>46433.152897045409</X>
-      <Y>-4414.7042243140231</Y>
-      <Z>35660.821179767052</Z>
-    </Origin>
-    <OriginEntityId>124176787660508982</OriginEntityId>
-    <Destination>
-      <X>43283.918130141552</X>
-      <Y>3765.6725766319637</Y>
-      <Z>39558.870700180087</Z>
-    </Destination>
-    <DestinationEntityId>132431122419490276</DestinationEntityId>
-    <FreightDescription>Radial particle meter</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Huge</FreightSize>
-    <TransportRisk>High</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>990684960856750237</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>46433.152897045409</X>
-      <Y>-4414.7042243140231</Y>
-      <Z>35660.821179767052</Z>
-    </Origin>
-    <OriginEntityId>124176787660508982</OriginEntityId>
-    <Destination>
-      <X>43283.918130141552</X>
-      <Y>3765.6725766319637</Y>
-      <Z>39558.870700180087</Z>
-    </Destination>
-    <DestinationEntityId>132431122419490276</DestinationEntityId>
-    <FreightDescription>Ion well amplifier</FreightDescription>
-    <IsClassified>true</IsClassified>
-    <IsExplosive>true</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>Low</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>945786411744497560</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>46433.152897045409</X>
-      <Y>-4414.7042243140231</Y>
-      <Z>35660.821179767052</Z>
-    </Origin>
-    <OriginEntityId>124176787660508982</OriginEntityId>
-    <Destination>
-      <X>46218.820356635981</X>
-      <Y>-32600.859910686861</Y>
-      <Z>17653.545562377087</Z>
-    </Destination>
-    <DestinationEntityId>87133836040765349</DestinationEntityId>
-    <FreightDescription>Quantum matter bearing</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>Low</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>977710590349823783</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>43283.918130141552</X>
-      <Y>3765.6725766319637</Y>
-      <Z>39558.870700180087</Z>
-    </Origin>
-    <OriginEntityId>132431122419490276</OriginEntityId>
-    <Destination>
-      <X>46218.820356635981</X>
-      <Y>-32600.859910686861</Y>
-      <Z>17653.545562377087</Z>
-    </Destination>
-    <DestinationEntityId>87133836040765349</DestinationEntityId>
-    <FreightDescription>Rusted spring disassembler</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Large</FreightSize>
-    <TransportRisk>Low</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>969060415455857222</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>-38805.136583634478</X>
-      <Y>-24135.229319533133</Y>
-      <Z>-36915.092539851765</Z>
-    </Origin>
-    <OriginEntityId>116431176981818017</OriginEntityId>
-    <Destination>
-      <X>-11330.949130028241</X>
-      <Y>-16007.523495034637</Y>
-      <Z>-55736.028713261949</Z>
-    </Destination>
-    <DestinationEntityId>129575477006545458</DestinationEntityId>
-    <FreightDescription>Field timing regulator</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Large</FreightSize>
-    <TransportRisk>Extreme</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>981766850628418312</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>-38805.136583634478</X>
-      <Y>-24135.229319533133</Y>
-      <Z>-36915.092539851765</Z>
-    </Origin>
-    <OriginEntityId>116431176981818017</OriginEntityId>
-    <Destination>
-      <X>-34878.877389370777</X>
-      <Y>-26218.072563477705</Y>
-      <Z>-39510.408188422152</Z>
-    </Destination>
-    <DestinationEntityId>94973683123900524</DestinationEntityId>
-    <FreightDescription>Rusted generation vent</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>true</IsExplosive>
-    <FreightSize>Huge</FreightSize>
-    <TransportRisk>Low</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>983320054655443839</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>-10145.109279233382</X>
-      <Y>-13777.493576951229</Y>
-      <Z>-56413.506174060836</Z>
-    </Origin>
-    <OriginEntityId>141320661554849843</OriginEntityId>
-    <Destination>
-      <X>-34878.877389370777</X>
-      <Y>-26218.072563477705</Y>
-      <Z>-39510.408188422152</Z>
-    </Destination>
-    <DestinationEntityId>94973683123900524</DestinationEntityId>
-    <FreightDescription>Ionic outlet teleporter</FreightDescription>
-    <IsClassified>true</IsClassified>
-    <IsExplosive>true</IsExplosive>
-    <FreightSize>Large</FreightSize>
-    <TransportRisk>Low</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>979565041534073319</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>15866.069604066606</X>
-      <Y>-45285.144465281883</Y>
-      <Z>33703.905741759314</Z>
-    </Origin>
-    <OriginEntityId>106620302241188819</OriginEntityId>
-    <Destination>
-      <X>46433.152897045409</X>
-      <Y>-4414.7042243140231</Y>
-      <Z>35660.821179767052</Z>
-    </Destination>
-    <DestinationEntityId>124176787660508982</DestinationEntityId>
-    <FreightDescription>Antimatter Heisenburg spring</FreightDescription>
+    <FreightDescription>Experimental flux helix</FreightDescription>
     <IsClassified>false</IsClassified>
     <IsExplosive>false</IsExplosive>
     <FreightSize>Small</FreightSize>
@@ -639,210 +291,7 @@
     <FreightEntityId>0</FreightEntityId>
   </ContractDetails>
   <ContractDetails>
-    <ContractId>983097801220416600</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>15866.069604066606</X>
-      <Y>-45285.144465281883</Y>
-      <Z>33703.905741759314</Z>
-    </Origin>
-    <OriginEntityId>106620302241188819</OriginEntityId>
-    <Destination>
-      <X>46433.152897045409</X>
-      <Y>-4414.7042243140231</Y>
-      <Z>35660.821179767052</Z>
-    </Destination>
-    <DestinationEntityId>124176787660508982</DestinationEntityId>
-    <FreightDescription>Radix emitter fuser</FreightDescription>
-    <IsClassified>true</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>High</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>976587660657118157</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>15866.069604066606</X>
-      <Y>-45285.144465281883</Y>
-      <Z>33703.905741759314</Z>
-    </Origin>
-    <OriginEntityId>106620302241188819</OriginEntityId>
-    <Destination>
-      <X>39835.24666810449</X>
-      <Y>-35685.351160765174</Y>
-      <Z>23967.581875583659</Z>
-    </Destination>
-    <DestinationEntityId>116775910304084401</DestinationEntityId>
-    <FreightDescription>Field wave fitting</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>true</IsExplosive>
-    <FreightSize>Huge</FreightSize>
-    <TransportRisk>High</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>950077829377319014</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>701.28506237408465</X>
-      <Y>-47931.657552474979</Y>
-      <Z>-81996.5516395079</Z>
-    </Origin>
-    <OriginEntityId>140385542140037644</OriginEntityId>
-    <Destination>
-      <X>-11330.949130028241</X>
-      <Y>-16007.523495034637</Y>
-      <Z>-55736.028713261949</Z>
-    </Destination>
-    <DestinationEntityId>129575477006545458</DestinationEntityId>
-    <FreightDescription>Energy timing processor</FreightDescription>
-    <IsClassified>true</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Large</FreightSize>
-    <TransportRisk>Low</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>983290796662465087</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>701.28506237408465</X>
-      <Y>-47931.657552474979</Y>
-      <Z>-81996.5516395079</Z>
-    </Origin>
-    <OriginEntityId>140385542140037644</OriginEntityId>
-    <Destination>
-      <X>26461.324421294954</X>
-      <Y>-32819.00260266308</Y>
-      <Z>-41054.338054669788</Z>
-    </Destination>
-    <DestinationEntityId>91794521211453371</DestinationEntityId>
-    <FreightDescription>Tachyon flux degausser</FreightDescription>
-    <IsClassified>true</IsClassified>
-    <IsExplosive>true</IsExplosive>
-    <FreightSize>Large</FreightSize>
-    <TransportRisk>High</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>985425130179849337</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>701.28506237408465</X>
-      <Y>-47931.657552474979</Y>
-      <Z>-81996.5516395079</Z>
-    </Origin>
-    <OriginEntityId>140385542140037644</OriginEntityId>
-    <Destination>
-      <X>26461.324421294954</X>
-      <Y>-32819.00260266308</Y>
-      <Z>-41054.338054669788</Z>
-    </Destination>
-    <DestinationEntityId>91794521211453371</DestinationEntityId>
-    <FreightDescription>Quasi outlet helix</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>High</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>946689281566180063</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>44025.707756168755</X>
-      <Y>-41547.088864582809</Y>
-      <Z>-73165.605249702625</Z>
-    </Origin>
-    <OriginEntityId>134145443616892721</OriginEntityId>
-    <Destination>
-      <X>49856.347760546349</X>
-      <Y>-5912.4360929662653</Y>
-      <Z>-30588.613677193207</Z>
-    </Destination>
-    <DestinationEntityId>95559747999312205</DestinationEntityId>
-    <FreightDescription>Pulse disassembler vent</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Huge</FreightSize>
-    <TransportRisk>None</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>987696764249109123</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>44025.707756168755</X>
-      <Y>-41547.088864582809</Y>
-      <Z>-73165.605249702625</Z>
-    </Origin>
-    <OriginEntityId>134145443616892721</OriginEntityId>
-    <Destination>
-      <X>-10145.109279233382</X>
-      <Y>-13777.493576951229</Y>
-      <Z>-56413.506174060836</Z>
-    </Destination>
-    <DestinationEntityId>141320661554849843</DestinationEntityId>
-    <FreightDescription>Radix well reactor</FreightDescription>
-    <IsClassified>true</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Huge</FreightSize>
-    <TransportRisk>Low</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>992210897892562105</ContractId>
+    <ContractId>961632728158262277</ContractId>
     <IsEnded>false</IsEnded>
     <Origin>
       <X>37118.105964257687</X>
@@ -851,15 +300,218 @@
     </Origin>
     <OriginEntityId>95311268812087141</OriginEntityId>
     <Destination>
-      <X>49856.347760546349</X>
-      <Y>-5912.4360929662653</Y>
-      <Z>-30588.613677193207</Z>
+      <X>43283.918130141552</X>
+      <Y>3765.6725766319637</Y>
+      <Z>39558.870700180087</Z>
     </Destination>
-    <DestinationEntityId>95559747999312205</DestinationEntityId>
-    <FreightDescription>Field microdilation spring</FreightDescription>
+    <DestinationEntityId>132431122419490276</DestinationEntityId>
+    <FreightDescription>Baryonic filter counter-lever</FreightDescription>
     <IsClassified>false</IsClassified>
     <IsExplosive>false</IsExplosive>
     <FreightSize>Small</FreightSize>
+    <TransportRisk>Extreme</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>989121060776258058</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-17841.724321865233</X>
+      <Y>-60494.978333648913</Y>
+      <Z>71007.728819009368</Z>
+    </Origin>
+    <OriginEntityId>136516037073452280</OriginEntityId>
+    <Destination>
+      <X>-37267.596401058421</X>
+      <Y>-45252.676758328722</Y>
+      <Z>-572.21290740012716</Z>
+    </Destination>
+    <DestinationEntityId>83686254548409705</DestinationEntityId>
+    <FreightDescription>Molecular well fitting</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>Low</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>1000346592515735086</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-17841.724321865233</X>
+      <Y>-60494.978333648913</Y>
+      <Z>71007.728819009368</Z>
+    </Origin>
+    <OriginEntityId>136516037073452280</OriginEntityId>
+    <Destination>
+      <X>-37267.596401058421</X>
+      <Y>-45252.676758328722</Y>
+      <Z>-572.21290740012716</Z>
+    </Destination>
+    <DestinationEntityId>83686254548409705</DestinationEntityId>
+    <FreightDescription>Rusted desequencing amplifier</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>Low</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>989173338451781047</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-17841.724321865233</X>
+      <Y>-60494.978333648913</Y>
+      <Z>71007.728819009368</Z>
+    </Origin>
+    <OriginEntityId>136516037073452280</OriginEntityId>
+    <Destination>
+      <X>-37267.596401058421</X>
+      <Y>-45252.676758328722</Y>
+      <Z>-572.21290740012716</Z>
+    </Destination>
+    <DestinationEntityId>83686254548409705</DestinationEntityId>
+    <FreightDescription>Energy photon stabilizer</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Huge</FreightSize>
+    <TransportRisk>Extreme</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>1004136789075106268</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-11330.949130028241</X>
+      <Y>-16007.523495034637</Y>
+      <Z>-55736.028713261949</Z>
+    </Origin>
+    <OriginEntityId>129575477006545458</OriginEntityId>
+    <Destination>
+      <X>701.28506237408465</X>
+      <Y>-47931.657552474979</Y>
+      <Z>-81996.5516395079</Z>
+    </Destination>
+    <DestinationEntityId>140385542140037644</DestinationEntityId>
+    <FreightDescription>Turbo matter counter-lever</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Huge</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>947848202346956066</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-11330.949130028241</X>
+      <Y>-16007.523495034637</Y>
+      <Z>-55736.028713261949</Z>
+    </Origin>
+    <OriginEntityId>129575477006545458</OriginEntityId>
+    <Destination>
+      <X>-34878.877389370777</X>
+      <Y>-26218.072563477705</Y>
+      <Z>-39510.408188422152</Z>
+    </Destination>
+    <DestinationEntityId>94973683123900524</DestinationEntityId>
+    <FreightDescription>Baryonic resonance processor</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Large</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>1001690416103682515</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-11330.949130028241</X>
+      <Y>-16007.523495034637</Y>
+      <Z>-55736.028713261949</Z>
+    </Origin>
+    <OriginEntityId>129575477006545458</OriginEntityId>
+    <Destination>
+      <X>-34878.877389370777</X>
+      <Y>-26218.072563477705</Y>
+      <Z>-39510.408188422152</Z>
+    </Destination>
+    <DestinationEntityId>94973683123900524</DestinationEntityId>
+    <FreightDescription>Gravity desequencing coupler</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>956510087658566610</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-37267.596401058421</X>
+      <Y>-45252.676758328722</Y>
+      <Z>-572.21290740012716</Z>
+    </Origin>
+    <OriginEntityId>83686254548409705</OriginEntityId>
+    <Destination>
+      <X>-38851.293502651526</X>
+      <Y>-32745.307672347473</Y>
+      <Z>-29395.271034048816</Z>
+    </Destination>
+    <DestinationEntityId>96336222175010998</DestinationEntityId>
+    <FreightDescription>Matter encabulation degausser</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>true</IsExplosive>
+    <FreightSize>Huge</FreightSize>
     <TransportRisk>None</TransportRisk>
     <FreightAttacks>0</FreightAttacks>
     <FreightSpawnPoint>
@@ -871,23 +523,23 @@
     <FreightEntityId>0</FreightEntityId>
   </ContractDetails>
   <ContractDetails>
-    <ContractId>989594927756798983</ContractId>
+    <ContractId>954955896238541269</ContractId>
     <IsEnded>false</IsEnded>
     <Origin>
-      <X>37118.105964257687</X>
-      <Y>40001.227448437974</Y>
-      <Z>22076.583253111748</Z>
+      <X>-38851.293502651526</X>
+      <Y>-32745.307672347473</Y>
+      <Z>-29395.271034048816</Z>
     </Origin>
-    <OriginEntityId>95311268812087141</OriginEntityId>
+    <OriginEntityId>96336222175010998</OriginEntityId>
     <Destination>
-      <X>46218.820356635981</X>
-      <Y>-32600.859910686861</Y>
-      <Z>17653.545562377087</Z>
+      <X>-37267.596401058421</X>
+      <Y>-45252.676758328722</Y>
+      <Z>-572.21290740012716</Z>
     </Destination>
-    <DestinationEntityId>87133836040765349</DestinationEntityId>
-    <FreightDescription>Turbo decompression meter</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
+    <DestinationEntityId>83686254548409705</DestinationEntityId>
+    <FreightDescription>Radix particle degausser</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>true</IsExplosive>
     <FreightSize>Large</FreightSize>
     <TransportRisk>High</TransportRisk>
     <FreightAttacks>0</FreightAttacks>
@@ -900,22 +552,51 @@
     <FreightEntityId>0</FreightEntityId>
   </ContractDetails>
   <ContractDetails>
-    <ContractId>958488262021943380</ContractId>
+    <ContractId>945398377150277935</ContractId>
     <IsEnded>false</IsEnded>
     <Origin>
-      <X>26461.324421294954</X>
-      <Y>-32819.00260266308</Y>
-      <Z>-41054.338054669788</Z>
+      <X>-38851.293502651526</X>
+      <Y>-32745.307672347473</Y>
+      <Z>-29395.271034048816</Z>
     </Origin>
-    <OriginEntityId>91794521211453371</OriginEntityId>
+    <OriginEntityId>96336222175010998</OriginEntityId>
     <Destination>
-      <X>44025.707756168755</X>
-      <Y>-41547.088864582809</Y>
-      <Z>-73165.605249702625</Z>
+      <X>-33739.652599833527</X>
+      <Y>-47756.514680653621</Y>
+      <Z>6025.9567863224866</Z>
     </Destination>
-    <DestinationEntityId>134145443616892721</DestinationEntityId>
-    <FreightDescription>Rusted resonance valve</FreightDescription>
-    <IsClassified>true</IsClassified>
+    <DestinationEntityId>119743237769668588</DestinationEntityId>
+    <FreightDescription>Field matter processor</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Huge</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>949428261361043615</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-10818.232854330685</X>
+      <Y>-52311.552209707021</Y>
+      <Z>27951.112691977221</Z>
+    </Origin>
+    <OriginEntityId>124725739317800056</OriginEntityId>
+    <Destination>
+      <X>-37267.596401058421</X>
+      <Y>-45252.676758328722</Y>
+      <Z>-572.21290740012716</Z>
+    </Destination>
+    <DestinationEntityId>83686254548409705</DestinationEntityId>
+    <FreightDescription>Antimatter throttle helix</FreightDescription>
+    <IsClassified>false</IsClassified>
     <IsExplosive>false</IsExplosive>
     <FreightSize>Large</FreightSize>
     <TransportRisk>Low</TransportRisk>
@@ -929,227 +610,24 @@
     <FreightEntityId>0</FreightEntityId>
   </ContractDetails>
   <ContractDetails>
-    <ContractId>993572800436044902</ContractId>
+    <ContractId>986379097203495318</ContractId>
     <IsEnded>false</IsEnded>
     <Origin>
-      <X>26461.324421294954</X>
-      <Y>-32819.00260266308</Y>
-      <Z>-41054.338054669788</Z>
+      <X>-10818.232854330685</X>
+      <Y>-52311.552209707021</Y>
+      <Z>27951.112691977221</Z>
     </Origin>
-    <OriginEntityId>91794521211453371</OriginEntityId>
+    <OriginEntityId>124725739317800056</OriginEntityId>
     <Destination>
-      <X>44025.707756168755</X>
-      <Y>-41547.088864582809</Y>
-      <Z>-73165.605249702625</Z>
+      <X>-17841.724321865233</X>
+      <Y>-60494.978333648913</Y>
+      <Z>71007.728819009368</Z>
     </Destination>
-    <DestinationEntityId>134145443616892721</DestinationEntityId>
-    <FreightDescription>Energy decompression counter-lever</FreightDescription>
-    <IsClassified>true</IsClassified>
-    <IsExplosive>true</IsExplosive>
-    <FreightSize>Huge</FreightSize>
-    <TransportRisk>High</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>1005751373593479827</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>26461.324421294954</X>
-      <Y>-32819.00260266308</Y>
-      <Z>-41054.338054669788</Z>
-    </Origin>
-    <OriginEntityId>91794521211453371</OriginEntityId>
-    <Destination>
-      <X>44025.707756168755</X>
-      <Y>-41547.088864582809</Y>
-      <Z>-73165.605249702625</Z>
-    </Destination>
-    <DestinationEntityId>134145443616892721</DestinationEntityId>
-    <FreightDescription>Radial matter meter</FreightDescription>
+    <DestinationEntityId>136516037073452280</DestinationEntityId>
+    <FreightDescription>Holographic interface reactor</FreightDescription>
     <IsClassified>false</IsClassified>
     <IsExplosive>false</IsExplosive>
     <FreightSize>Huge</FreightSize>
-    <TransportRisk>Extreme</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>999471614543501190</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>-11330.949130028241</X>
-      <Y>-16007.523495034637</Y>
-      <Z>-55736.028713261949</Z>
-    </Origin>
-    <OriginEntityId>129575477006545458</OriginEntityId>
-    <Destination>
-      <X>-10145.109279233382</X>
-      <Y>-13777.493576951229</Y>
-      <Z>-56413.506174060836</Z>
-    </Destination>
-    <DestinationEntityId>141320661554849843</DestinationEntityId>
-    <FreightDescription>Experimental disassembler spring</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>High</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>949108967740958436</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>-11330.949130028241</X>
-      <Y>-16007.523495034637</Y>
-      <Z>-55736.028713261949</Z>
-    </Origin>
-    <OriginEntityId>129575477006545458</OriginEntityId>
-    <Destination>
-      <X>-10145.109279233382</X>
-      <Y>-13777.493576951229</Y>
-      <Z>-56413.506174060836</Z>
-    </Destination>
-    <DestinationEntityId>141320661554849843</DestinationEntityId>
-    <FreightDescription>Gravitational timing tensioner</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>High</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>938575523027378383</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>-11330.949130028241</X>
-      <Y>-16007.523495034637</Y>
-      <Z>-55736.028713261949</Z>
-    </Origin>
-    <OriginEntityId>129575477006545458</OriginEntityId>
-    <Destination>
-      <X>-10145.109279233382</X>
-      <Y>-13777.493576951229</Y>
-      <Z>-56413.506174060836</Z>
-    </Destination>
-    <DestinationEntityId>141320661554849843</DestinationEntityId>
-    <FreightDescription>Radix drive teleporter</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>High</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>990403222537243971</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>-38851.293502651526</X>
-      <Y>-32745.307672347473</Y>
-      <Z>-29395.271034048816</Z>
-    </Origin>
-    <OriginEntityId>96336222175010998</OriginEntityId>
-    <Destination>
-      <X>-10145.109279233382</X>
-      <Y>-13777.493576951229</Y>
-      <Z>-56413.506174060836</Z>
-    </Destination>
-    <DestinationEntityId>141320661554849843</DestinationEntityId>
-    <FreightDescription>Amplified particle matrix</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>High</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>957744924208831087</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>-38851.293502651526</X>
-      <Y>-32745.307672347473</Y>
-      <Z>-29395.271034048816</Z>
-    </Origin>
-    <OriginEntityId>96336222175010998</OriginEntityId>
-    <Destination>
-      <X>-10145.109279233382</X>
-      <Y>-13777.493576951229</Y>
-      <Z>-56413.506174060836</Z>
-    </Destination>
-    <DestinationEntityId>141320661554849843</DestinationEntityId>
-    <FreightDescription>Gravity disassembler reactor</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Huge</FreightSize>
-    <TransportRisk>Extreme</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>958144574624055916</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>49856.347760546349</X>
-      <Y>-5912.4360929662653</Y>
-      <Z>-30588.613677193207</Z>
-    </Origin>
-    <OriginEntityId>95559747999312205</OriginEntityId>
-    <Destination>
-      <X>26461.324421294954</X>
-      <Y>-32819.00260266308</Y>
-      <Z>-41054.338054669788</Z>
-    </Destination>
-    <DestinationEntityId>91794521211453371</DestinationEntityId>
-    <FreightDescription>Matter well outlet</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>true</IsExplosive>
-    <FreightSize>Large</FreightSize>
     <TransportRisk>Low</TransportRisk>
     <FreightAttacks>0</FreightAttacks>
     <FreightSpawnPoint>
@@ -1161,7 +639,36 @@
     <FreightEntityId>0</FreightEntityId>
   </ContractDetails>
   <ContractDetails>
-    <ContractId>996170012330902674</ContractId>
+    <ContractId>944348582762345543</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-33739.652599833527</X>
+      <Y>-47756.514680653621</Y>
+      <Z>6025.9567863224866</Z>
+    </Origin>
+    <OriginEntityId>119743237769668588</OriginEntityId>
+    <Destination>
+      <X>-38851.293502651526</X>
+      <Y>-32745.307672347473</Y>
+      <Z>-29395.271034048816</Z>
+    </Destination>
+    <DestinationEntityId>96336222175010998</DestinationEntityId>
+    <FreightDescription>Quasi drive assembly</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Large</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>989787258280159607</ContractId>
     <IsEnded>false</IsEnded>
     <Origin>
       <X>39835.24666810449</X>
@@ -1175,7 +682,616 @@
       <Z>33703.905741759314</Z>
     </Destination>
     <DestinationEntityId>106620302241188819</DestinationEntityId>
-    <FreightDescription>Unstable interface bushing</FreightDescription>
+    <FreightDescription>Baryonic fusion fuser</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>true</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>Low</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>990252241228176410</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>39835.24666810449</X>
+      <Y>-35685.351160765174</Y>
+      <Z>23967.581875583659</Z>
+    </Origin>
+    <OriginEntityId>116775910304084401</OriginEntityId>
+    <Destination>
+      <X>46218.820356635981</X>
+      <Y>-32600.859910686861</Y>
+      <Z>17653.545562377087</Z>
+    </Destination>
+    <DestinationEntityId>87133836040765349</DestinationEntityId>
+    <FreightDescription>Pulse outlet unit</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>None</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>968363909411711823</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>39835.24666810449</X>
+      <Y>-35685.351160765174</Y>
+      <Z>23967.581875583659</Z>
+    </Origin>
+    <OriginEntityId>116775910304084401</OriginEntityId>
+    <Destination>
+      <X>46218.820356635981</X>
+      <Y>-32600.859910686861</Y>
+      <Z>17653.545562377087</Z>
+    </Destination>
+    <DestinationEntityId>87133836040765349</DestinationEntityId>
+    <FreightDescription>Energy resonance lever</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>Low</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>945227881792353129</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>46433.152897045409</X>
+      <Y>-4414.7042243140231</Y>
+      <Z>35660.821179767052</Z>
+    </Origin>
+    <OriginEntityId>124176787660508982</OriginEntityId>
+    <Destination>
+      <X>46218.820356635981</X>
+      <Y>-32600.859910686861</Y>
+      <Z>17653.545562377087</Z>
+    </Destination>
+    <DestinationEntityId>87133836040765349</DestinationEntityId>
+    <FreightDescription>Field fusion vent</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>Extreme</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>989472103312838434</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>46433.152897045409</X>
+      <Y>-4414.7042243140231</Y>
+      <Z>35660.821179767052</Z>
+    </Origin>
+    <OriginEntityId>124176787660508982</OriginEntityId>
+    <Destination>
+      <X>39835.24666810449</X>
+      <Y>-35685.351160765174</Y>
+      <Z>23967.581875583659</Z>
+    </Destination>
+    <DestinationEntityId>116775910304084401</DestinationEntityId>
+    <FreightDescription>Baryonic particle bearing</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>true</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>993689075419814900</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>46433.152897045409</X>
+      <Y>-4414.7042243140231</Y>
+      <Z>35660.821179767052</Z>
+    </Origin>
+    <OriginEntityId>124176787660508982</OriginEntityId>
+    <Destination>
+      <X>46218.820356635981</X>
+      <Y>-32600.859910686861</Y>
+      <Z>17653.545562377087</Z>
+    </Destination>
+    <DestinationEntityId>87133836040765349</DestinationEntityId>
+    <FreightDescription>Radial particle ejector</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>true</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>974675010522812108</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>46218.820356635981</X>
+      <Y>-32600.859910686861</Y>
+      <Z>17653.545562377087</Z>
+    </Origin>
+    <OriginEntityId>87133836040765349</OriginEntityId>
+    <Destination>
+      <X>15866.069604066606</X>
+      <Y>-45285.144465281883</Y>
+      <Z>33703.905741759314</Z>
+    </Destination>
+    <DestinationEntityId>106620302241188819</DestinationEntityId>
+    <FreightDescription>Decomissioned flux processor</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Huge</FreightSize>
+    <TransportRisk>Extreme</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>957110746081853885</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>46218.820356635981</X>
+      <Y>-32600.859910686861</Y>
+      <Z>17653.545562377087</Z>
+    </Origin>
+    <OriginEntityId>87133836040765349</OriginEntityId>
+    <Destination>
+      <X>46433.152897045409</X>
+      <Y>-4414.7042243140231</Y>
+      <Z>35660.821179767052</Z>
+    </Destination>
+    <DestinationEntityId>124176787660508982</DestinationEntityId>
+    <FreightDescription>Amplified desequencing ejector</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Huge</FreightSize>
+    <TransportRisk>None</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>973380364279330014</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>46218.820356635981</X>
+      <Y>-32600.859910686861</Y>
+      <Z>17653.545562377087</Z>
+    </Origin>
+    <OriginEntityId>87133836040765349</OriginEntityId>
+    <Destination>
+      <X>15866.069604066606</X>
+      <Y>-45285.144465281883</Y>
+      <Z>33703.905741759314</Z>
+    </Destination>
+    <DestinationEntityId>106620302241188819</DestinationEntityId>
+    <FreightDescription>Rusted wave fitting</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>true</IsExplosive>
+    <FreightSize>Huge</FreightSize>
+    <TransportRisk>None</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>1007229221873544531</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>43283.918130141552</X>
+      <Y>3765.6725766319637</Y>
+      <Z>39558.870700180087</Z>
+    </Origin>
+    <OriginEntityId>132431122419490276</OriginEntityId>
+    <Destination>
+      <X>46433.152897045409</X>
+      <Y>-4414.7042243140231</Y>
+      <Z>35660.821179767052</Z>
+    </Destination>
+    <DestinationEntityId>124176787660508982</DestinationEntityId>
+    <FreightDescription>Matter particle iris</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Large</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>950077997091673984</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>43283.918130141552</X>
+      <Y>3765.6725766319637</Y>
+      <Z>39558.870700180087</Z>
+    </Origin>
+    <OriginEntityId>132431122419490276</OriginEntityId>
+    <Destination>
+      <X>46218.820356635981</X>
+      <Y>-32600.859910686861</Y>
+      <Z>17653.545562377087</Z>
+    </Destination>
+    <DestinationEntityId>87133836040765349</DestinationEntityId>
+    <FreightDescription>Radial well cylinder</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>1006190208915780615</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>43283.918130141552</X>
+      <Y>3765.6725766319637</Y>
+      <Z>39558.870700180087</Z>
+    </Origin>
+    <OriginEntityId>132431122419490276</OriginEntityId>
+    <Destination>
+      <X>46433.152897045409</X>
+      <Y>-4414.7042243140231</Y>
+      <Z>35660.821179767052</Z>
+    </Destination>
+    <DestinationEntityId>124176787660508982</DestinationEntityId>
+    <FreightDescription>Ion throttle helix</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>1007599496836505936</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-38805.136583634478</X>
+      <Y>-24135.229319533133</Y>
+      <Z>-36915.092539851765</Z>
+    </Origin>
+    <OriginEntityId>116431176981818017</OriginEntityId>
+    <Destination>
+      <X>-38851.293502651526</X>
+      <Y>-32745.307672347473</Y>
+      <Z>-29395.271034048816</Z>
+    </Destination>
+    <DestinationEntityId>96336222175010998</DestinationEntityId>
+    <FreightDescription>Matter emitter unit</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>true</IsExplosive>
+    <FreightSize>Large</FreightSize>
+    <TransportRisk>Extreme</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>983958338001336369</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>3560.5429930603291</X>
+      <Y>57992.604596950994</Y>
+      <Z>-9833.38167335918</Z>
+    </Origin>
+    <OriginEntityId>110025619747174176</OriginEntityId>
+    <Destination>
+      <X>43283.918130141552</X>
+      <Y>3765.6725766319637</Y>
+      <Z>39558.870700180087</Z>
+    </Destination>
+    <DestinationEntityId>132431122419490276</DestinationEntityId>
+    <FreightDescription>Chrono desequencing vent</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>true</IsExplosive>
+    <FreightSize>Large</FreightSize>
+    <TransportRisk>Extreme</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>953058700921196044</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>3560.5429930603291</X>
+      <Y>57992.604596950994</Y>
+      <Z>-9833.38167335918</Z>
+    </Origin>
+    <OriginEntityId>110025619747174176</OriginEntityId>
+    <Destination>
+      <X>43283.918130141552</X>
+      <Y>3765.6725766319637</Y>
+      <Z>39558.870700180087</Z>
+    </Destination>
+    <DestinationEntityId>132431122419490276</DestinationEntityId>
+    <FreightDescription>Ionic filter valve</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Huge</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>995103570807648287</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>3560.5429930603291</X>
+      <Y>57992.604596950994</Y>
+      <Z>-9833.38167335918</Z>
+    </Origin>
+    <OriginEntityId>110025619747174176</OriginEntityId>
+    <Destination>
+      <X>46433.152897045409</X>
+      <Y>-4414.7042243140231</Y>
+      <Z>35660.821179767052</Z>
+    </Destination>
+    <DestinationEntityId>124176787660508982</DestinationEntityId>
+    <FreightDescription>Radial interface matrix</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Large</FreightSize>
+    <TransportRisk>Extreme</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>948084423433324601</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>15866.069604066606</X>
+      <Y>-45285.144465281883</Y>
+      <Z>33703.905741759314</Z>
+    </Origin>
+    <OriginEntityId>106620302241188819</OriginEntityId>
+    <Destination>
+      <X>-10818.232854330685</X>
+      <Y>-52311.552209707021</Y>
+      <Z>27951.112691977221</Z>
+    </Destination>
+    <DestinationEntityId>124725739317800056</DestinationEntityId>
+    <FreightDescription>Baryonic microdilation resonator</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Large</FreightSize>
+    <TransportRisk>Extreme</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>955258697733273121</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>15866.069604066606</X>
+      <Y>-45285.144465281883</Y>
+      <Z>33703.905741759314</Z>
+    </Origin>
+    <OriginEntityId>106620302241188819</OriginEntityId>
+    <Destination>
+      <X>46433.152897045409</X>
+      <Y>-4414.7042243140231</Y>
+      <Z>35660.821179767052</Z>
+    </Destination>
+    <DestinationEntityId>124176787660508982</DestinationEntityId>
+    <FreightDescription>Gravitational throttle regulator</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>true</IsExplosive>
+    <FreightSize>Huge</FreightSize>
+    <TransportRisk>Extreme</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>966893188319007227</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>701.28506237408465</X>
+      <Y>-47931.657552474979</Y>
+      <Z>-81996.5516395079</Z>
+    </Origin>
+    <OriginEntityId>140385542140037644</OriginEntityId>
+    <Destination>
+      <X>44025.707756168755</X>
+      <Y>-41547.088864582809</Y>
+      <Z>-73165.605249702625</Z>
+    </Destination>
+    <DestinationEntityId>134145443616892721</DestinationEntityId>
+    <FreightDescription>Warp photon assembly</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Large</FreightSize>
+    <TransportRisk>Extreme</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>968978766281306191</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>701.28506237408465</X>
+      <Y>-47931.657552474979</Y>
+      <Z>-81996.5516395079</Z>
+    </Origin>
+    <OriginEntityId>140385542140037644</OriginEntityId>
+    <Destination>
+      <X>26461.324421294954</X>
+      <Y>-32819.00260266308</Y>
+      <Z>-41054.338054669788</Z>
+    </Destination>
+    <DestinationEntityId>91794521211453371</DestinationEntityId>
+    <FreightDescription>Tachyon compression counter-lever</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>Extreme</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>993614845070447097</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>701.28506237408465</X>
+      <Y>-47931.657552474979</Y>
+      <Z>-81996.5516395079</Z>
+    </Origin>
+    <OriginEntityId>140385542140037644</OriginEntityId>
+    <Destination>
+      <X>44025.707756168755</X>
+      <Y>-41547.088864582809</Y>
+      <Z>-73165.605249702625</Z>
+    </Destination>
+    <DestinationEntityId>134145443616892721</DestinationEntityId>
+    <FreightDescription>Radial emitter matrix</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>None</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>988455357209494091</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-34878.877389370777</X>
+      <Y>-26218.072563477705</Y>
+      <Z>-39510.408188422152</Z>
+    </Origin>
+    <OriginEntityId>94973683123900524</OriginEntityId>
+    <Destination>
+      <X>-37267.596401058421</X>
+      <Y>-45252.676758328722</Y>
+      <Z>-572.21290740012716</Z>
+    </Destination>
+    <DestinationEntityId>83686254548409705</DestinationEntityId>
+    <FreightDescription>Timed disassembler cylinder</FreightDescription>
     <IsClassified>false</IsClassified>
     <IsExplosive>false</IsExplosive>
     <FreightSize>Large</FreightSize>
@@ -1190,24 +1306,169 @@
     <FreightEntityId>0</FreightEntityId>
   </ContractDetails>
   <ContractDetails>
-    <ContractId>987515079400846644</ContractId>
+    <ContractId>980185888869803313</ContractId>
     <IsEnded>false</IsEnded>
     <Origin>
-      <X>39835.24666810449</X>
-      <Y>-35685.351160765174</Y>
-      <Z>23967.581875583659</Z>
+      <X>-34878.877389370777</X>
+      <Y>-26218.072563477705</Y>
+      <Z>-39510.408188422152</Z>
     </Origin>
-    <OriginEntityId>116775910304084401</OriginEntityId>
+    <OriginEntityId>94973683123900524</OriginEntityId>
     <Destination>
-      <X>43283.918130141552</X>
-      <Y>3765.6725766319637</Y>
-      <Z>39558.870700180087</Z>
+      <X>-37267.596401058421</X>
+      <Y>-45252.676758328722</Y>
+      <Z>-572.21290740012716</Z>
     </Destination>
-    <DestinationEntityId>132431122419490276</DestinationEntityId>
-    <FreightDescription>Macro well manipulator</FreightDescription>
+    <DestinationEntityId>83686254548409705</DestinationEntityId>
+    <FreightDescription>Radial decompression assembly</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Huge</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>960738132250028118</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-34878.877389370777</X>
+      <Y>-26218.072563477705</Y>
+      <Z>-39510.408188422152</Z>
+    </Origin>
+    <OriginEntityId>94973683123900524</OriginEntityId>
+    <Destination>
+      <X>-38805.136583634478</X>
+      <Y>-24135.229319533133</Y>
+      <Z>-36915.092539851765</Z>
+    </Destination>
+    <DestinationEntityId>116431176981818017</DestinationEntityId>
+    <FreightDescription>Unstable disassembler cylinder</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Large</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>956269901697379523</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>26461.324421294954</X>
+      <Y>-32819.00260266308</Y>
+      <Z>-41054.338054669788</Z>
+    </Origin>
+    <OriginEntityId>91794521211453371</OriginEntityId>
+    <Destination>
+      <X>44025.707756168755</X>
+      <Y>-41547.088864582809</Y>
+      <Z>-73165.605249702625</Z>
+    </Destination>
+    <DestinationEntityId>134145443616892721</DestinationEntityId>
+    <FreightDescription>Turbo filter degausser</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Large</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>936937018721316015</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>26461.324421294954</X>
+      <Y>-32819.00260266308</Y>
+      <Z>-41054.338054669788</Z>
+    </Origin>
+    <OriginEntityId>91794521211453371</OriginEntityId>
+    <Destination>
+      <X>-11330.949130028241</X>
+      <Y>-16007.523495034637</Y>
+      <Z>-55736.028713261949</Z>
+    </Destination>
+    <DestinationEntityId>129575477006545458</DestinationEntityId>
+    <FreightDescription>Baryonic decompression ejector</FreightDescription>
     <IsClassified>false</IsClassified>
     <IsExplosive>false</IsExplosive>
     <FreightSize>Huge</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>938332145571983758</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>26461.324421294954</X>
+      <Y>-32819.00260266308</Y>
+      <Z>-41054.338054669788</Z>
+    </Origin>
+    <OriginEntityId>91794521211453371</OriginEntityId>
+    <Destination>
+      <X>701.28506237408465</X>
+      <Y>-47931.657552474979</Y>
+      <Z>-81996.5516395079</Z>
+    </Destination>
+    <DestinationEntityId>140385542140037644</DestinationEntityId>
+    <FreightDescription>Gravity resonance ejector</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>true</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>None</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>979636115218062428</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-37267.596401058421</X>
+      <Y>-45252.676758328722</Y>
+      <Z>-572.21290740012716</Z>
+    </Origin>
+    <OriginEntityId>83686254548409705</OriginEntityId>
+    <Destination>
+      <X>-33739.652599833527</X>
+      <Y>-47756.514680653621</Y>
+      <Z>6025.9567863224866</Z>
+    </Destination>
+    <DestinationEntityId>119743237769668588</DestinationEntityId>
+    <FreightDescription>Molecular resonance stabilizer</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>true</IsExplosive>
+    <FreightSize>Small</FreightSize>
     <TransportRisk>Low</TransportRisk>
     <FreightAttacks>0</FreightAttacks>
     <FreightSpawnPoint>
@@ -1219,21 +1480,253 @@
     <FreightEntityId>0</FreightEntityId>
   </ContractDetails>
   <ContractDetails>
-    <ContractId>969774719971438253</ContractId>
+    <ContractId>941736832906585514</ContractId>
     <IsEnded>false</IsEnded>
     <Origin>
-      <X>39835.24666810449</X>
-      <Y>-35685.351160765174</Y>
-      <Z>23967.581875583659</Z>
+      <X>49856.347760546349</X>
+      <Y>-5912.4360929662653</Y>
+      <Z>-30588.613677193207</Z>
     </Origin>
-    <OriginEntityId>116775910304084401</OriginEntityId>
+    <OriginEntityId>95559747999312205</OriginEntityId>
     <Destination>
-      <X>46433.152897045409</X>
-      <Y>-4414.7042243140231</Y>
-      <Z>35660.821179767052</Z>
+      <X>44025.707756168755</X>
+      <Y>-41547.088864582809</Y>
+      <Z>-73165.605249702625</Z>
     </Destination>
-    <DestinationEntityId>124176787660508982</DestinationEntityId>
-    <FreightDescription>Tachyon particle flange</FreightDescription>
+    <DestinationEntityId>134145443616892721</DestinationEntityId>
+    <FreightDescription>Radix throttle tensioner</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>true</IsExplosive>
+    <FreightSize>Huge</FreightSize>
+    <TransportRisk>Extreme</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>982798998513549897</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-38851.293502651526</X>
+      <Y>-32745.307672347473</Y>
+      <Z>-29395.271034048816</Z>
+    </Origin>
+    <OriginEntityId>96336222175010998</OriginEntityId>
+    <Destination>
+      <X>-33739.652599833527</X>
+      <Y>-47756.514680653621</Y>
+      <Z>6025.9567863224866</Z>
+    </Destination>
+    <DestinationEntityId>119743237769668588</DestinationEntityId>
+    <FreightDescription>Molecular interface teleporter</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>Low</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>964450015744203713</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-38851.293502651526</X>
+      <Y>-32745.307672347473</Y>
+      <Z>-29395.271034048816</Z>
+    </Origin>
+    <OriginEntityId>96336222175010998</OriginEntityId>
+    <Destination>
+      <X>-37267.596401058421</X>
+      <Y>-45252.676758328722</Y>
+      <Z>-572.21290740012716</Z>
+    </Destination>
+    <DestinationEntityId>83686254548409705</DestinationEntityId>
+    <FreightDescription>Exotic photon matrix</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>None</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>970749896765608312</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-10818.232854330685</X>
+      <Y>-52311.552209707021</Y>
+      <Z>27951.112691977221</Z>
+    </Origin>
+    <OriginEntityId>124725739317800056</OriginEntityId>
+    <Destination>
+      <X>-33739.652599833527</X>
+      <Y>-47756.514680653621</Y>
+      <Z>6025.9567863224866</Z>
+    </Destination>
+    <DestinationEntityId>119743237769668588</DestinationEntityId>
+    <FreightDescription>Decomissioned flux cylinder</FreightDescription>
+    <IsClassified>true</IsClassified>
+    <IsExplosive>true</IsExplosive>
+    <FreightSize>Huge</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>966497364653818273</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-10818.232854330685</X>
+      <Y>-52311.552209707021</Y>
+      <Z>27951.112691977221</Z>
+    </Origin>
+    <OriginEntityId>124725739317800056</OriginEntityId>
+    <Destination>
+      <X>-33739.652599833527</X>
+      <Y>-47756.514680653621</Y>
+      <Z>6025.9567863224866</Z>
+    </Destination>
+    <DestinationEntityId>119743237769668588</DestinationEntityId>
+    <FreightDescription>Quantum microdilation disassembler</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Large</FreightSize>
+    <TransportRisk>None</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>961770102037666322</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-10818.232854330685</X>
+      <Y>-52311.552209707021</Y>
+      <Z>27951.112691977221</Z>
+    </Origin>
+    <OriginEntityId>124725739317800056</OriginEntityId>
+    <Destination>
+      <X>15866.069604066606</X>
+      <Y>-45285.144465281883</Y>
+      <Z>33703.905741759314</Z>
+    </Destination>
+    <DestinationEntityId>106620302241188819</DestinationEntityId>
+    <FreightDescription>Radix encabulation fuser</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Large</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>966158195865761937</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-33739.652599833527</X>
+      <Y>-47756.514680653621</Y>
+      <Z>6025.9567863224866</Z>
+    </Origin>
+    <OriginEntityId>119743237769668588</OriginEntityId>
+    <Destination>
+      <X>-10818.232854330685</X>
+      <Y>-52311.552209707021</Y>
+      <Z>27951.112691977221</Z>
+    </Destination>
+    <DestinationEntityId>124725739317800056</DestinationEntityId>
+    <FreightDescription>Unstable interface valve</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>Low</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>941586034092183623</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-33739.652599833527</X>
+      <Y>-47756.514680653621</Y>
+      <Z>6025.9567863224866</Z>
+    </Origin>
+    <OriginEntityId>119743237769668588</OriginEntityId>
+    <Destination>
+      <X>-37267.596401058421</X>
+      <Y>-45252.676758328722</Y>
+      <Z>-572.21290740012716</Z>
+    </Destination>
+    <DestinationEntityId>83686254548409705</DestinationEntityId>
+    <FreightDescription>Radial disassembler unit</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>true</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>None</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>957637443161546996</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-33739.652599833527</X>
+      <Y>-47756.514680653621</Y>
+      <Z>6025.9567863224866</Z>
+    </Origin>
+    <OriginEntityId>119743237769668588</OriginEntityId>
+    <Destination>
+      <X>-38851.293502651526</X>
+      <Y>-32745.307672347473</Y>
+      <Z>-29395.271034048816</Z>
+    </Destination>
+    <DestinationEntityId>96336222175010998</DestinationEntityId>
+    <FreightDescription>Gravity interface projector</FreightDescription>
     <IsClassified>false</IsClassified>
     <IsExplosive>false</IsExplosive>
     <FreightSize>Huge</FreightSize>
@@ -1248,123 +1741,7 @@
     <FreightEntityId>0</FreightEntityId>
   </ContractDetails>
   <ContractDetails>
-    <ContractId>956273346454038327</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>46218.820356635981</X>
-      <Y>-32600.859910686861</Y>
-      <Z>17653.545562377087</Z>
-    </Origin>
-    <OriginEntityId>87133836040765349</OriginEntityId>
-    <Destination>
-      <X>46433.152897045409</X>
-      <Y>-4414.7042243140231</Y>
-      <Z>35660.821179767052</Z>
-    </Destination>
-    <DestinationEntityId>124176787660508982</DestinationEntityId>
-    <FreightDescription>Ion throttle regulator</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>Extreme</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>979768284238157863</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>43283.918130141552</X>
-      <Y>3765.6725766319637</Y>
-      <Z>39558.870700180087</Z>
-    </Origin>
-    <OriginEntityId>132431122419490276</OriginEntityId>
-    <Destination>
-      <X>37118.105964257687</X>
-      <Y>40001.227448437974</Y>
-      <Z>22076.583253111748</Z>
-    </Destination>
-    <DestinationEntityId>95311268812087141</DestinationEntityId>
-    <FreightDescription>Timed Heisenburg coupler</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>Extreme</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>956006615879254771</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>43283.918130141552</X>
-      <Y>3765.6725766319637</Y>
-      <Z>39558.870700180087</Z>
-    </Origin>
-    <OriginEntityId>132431122419490276</OriginEntityId>
-    <Destination>
-      <X>39835.24666810449</X>
-      <Y>-35685.351160765174</Y>
-      <Z>23967.581875583659</Z>
-    </Destination>
-    <DestinationEntityId>116775910304084401</DestinationEntityId>
-    <FreightDescription>Gravitational interface tensioner</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Large</FreightSize>
-    <TransportRisk>Extreme</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>969261504747340918</ContractId>
-    <IsEnded>false</IsEnded>
-    <Origin>
-      <X>43283.918130141552</X>
-      <Y>3765.6725766319637</Y>
-      <Z>39558.870700180087</Z>
-    </Origin>
-    <OriginEntityId>132431122419490276</OriginEntityId>
-    <Destination>
-      <X>46218.820356635981</X>
-      <Y>-32600.859910686861</Y>
-      <Z>17653.545562377087</Z>
-    </Destination>
-    <DestinationEntityId>87133836040765349</DestinationEntityId>
-    <FreightDescription>Unstable flux outlet</FreightDescription>
-    <IsClassified>false</IsClassified>
-    <IsExplosive>false</IsExplosive>
-    <FreightSize>Small</FreightSize>
-    <TransportRisk>Extreme</TransportRisk>
-    <FreightAttacks>0</FreightAttacks>
-    <FreightSpawnPoint>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </FreightSpawnPoint>
-    <PlayerId>0</PlayerId>
-    <FreightEntityId>0</FreightEntityId>
-  </ContractDetails>
-  <ContractDetails>
-    <ContractId>957321455109993639</ContractId>
+    <ContractId>989113235385484908</ContractId>
     <IsEnded>false</IsEnded>
     <Origin>
       <X>-38805.136583634478</X>
@@ -1373,16 +1750,74 @@
     </Origin>
     <OriginEntityId>116431176981818017</OriginEntityId>
     <Destination>
-      <X>-38851.293502651526</X>
-      <Y>-32745.307672347473</Y>
-      <Z>-29395.271034048816</Z>
+      <X>-11330.949130028241</X>
+      <Y>-16007.523495034637</Y>
+      <Z>-55736.028713261949</Z>
     </Destination>
-    <DestinationEntityId>96336222175010998</DestinationEntityId>
-    <FreightDescription>Baryonic matter disassembler</FreightDescription>
+    <DestinationEntityId>129575477006545458</DestinationEntityId>
+    <FreightDescription>Plasma wave amplifier</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Huge</FreightSize>
+    <TransportRisk>High</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>1006915585165022086</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-38805.136583634478</X>
+      <Y>-24135.229319533133</Y>
+      <Z>-36915.092539851765</Z>
+    </Origin>
+    <OriginEntityId>116431176981818017</OriginEntityId>
+    <Destination>
+      <X>-34878.877389370777</X>
+      <Y>-26218.072563477705</Y>
+      <Z>-39510.408188422152</Z>
+    </Destination>
+    <DestinationEntityId>94973683123900524</DestinationEntityId>
+    <FreightDescription>Plasma well manipulator</FreightDescription>
     <IsClassified>false</IsClassified>
     <IsExplosive>false</IsExplosive>
     <FreightSize>Small</FreightSize>
     <TransportRisk>None</TransportRisk>
+    <FreightAttacks>0</FreightAttacks>
+    <FreightSpawnPoint>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </FreightSpawnPoint>
+    <PlayerId>0</PlayerId>
+    <FreightEntityId>0</FreightEntityId>
+  </ContractDetails>
+  <ContractDetails>
+    <ContractId>943456351073459785</ContractId>
+    <IsEnded>false</IsEnded>
+    <Origin>
+      <X>-38805.136583634478</X>
+      <Y>-24135.229319533133</Y>
+      <Z>-36915.092539851765</Z>
+    </Origin>
+    <OriginEntityId>116431176981818017</OriginEntityId>
+    <Destination>
+      <X>-11330.949130028241</X>
+      <Y>-16007.523495034637</Y>
+      <Z>-55736.028713261949</Z>
+    </Destination>
+    <DestinationEntityId>129575477006545458</DestinationEntityId>
+    <FreightDescription>Pulse interface stabilizer</FreightDescription>
+    <IsClassified>false</IsClassified>
+    <IsExplosive>false</IsExplosive>
+    <FreightSize>Small</FreightSize>
+    <TransportRisk>Low</TransportRisk>
     <FreightAttacks>0</FreightAttacks>
     <FreightSpawnPoint>
       <X>0</X>
