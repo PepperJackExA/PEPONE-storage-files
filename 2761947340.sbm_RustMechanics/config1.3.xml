@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-16"?>
 <RustConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <OnlyRustUnpoweredGrids>false</OnlyRustUnpoweredGrids>
-  <RustDamagesBlocks>true</RustDamagesBlocks>
+  <RustDamagesBlocks>false</RustDamagesBlocks>
   <Planets>
 	<Planet>
       <PlanetNameContains>Agaris</PlanetNameContains>
-      <AverageMinutesToStartRusting>300</AverageMinutesToStartRusting>
+      <AverageMinutesToStartRusting>3000</AverageMinutesToStartRusting>
     </Planet>
 	<Planet>
       <PlanetNameContains>Thora</PlanetNameContains>
-      <AverageMinutesToStartRusting>300</AverageMinutesToStartRusting>
+      <AverageMinutesToStartRusting>3000</AverageMinutesToStartRusting>
     </Planet>
     <Planet>
       <PlanetNameContains>Earth</PlanetNameContains>
-      <AverageMinutesToStartRusting>300</AverageMinutesToStartRusting>
+      <AverageMinutesToStartRusting>3000</AverageMinutesToStartRusting>
     </Planet>
     <Planet>
       <PlanetNameContains>Alien</PlanetNameContains>
-      <AverageMinutesToStartRusting>180</AverageMinutesToStartRusting>
+      <AverageMinutesToStartRusting>1800</AverageMinutesToStartRusting>
     </Planet>
     <Planet>
       <PlanetNameContains>Pertam</PlanetNameContains>
-      <AverageMinutesToStartRusting>60</AverageMinutesToStartRusting>
+      <AverageMinutesToStartRusting>600</AverageMinutesToStartRusting>
     </Planet>
     <Planet>
       <PlanetNameContains>Venus</PlanetNameContains>
-      <AverageMinutesToStartRusting>10</AverageMinutesToStartRusting>
+      <AverageMinutesToStartRusting>100</AverageMinutesToStartRusting>
     </Planet>
   </Planets>
   <BlockSubtypeContainsBlackList>
